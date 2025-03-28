@@ -1,3 +1,3 @@
-SFG Brewery Example Configuration Repo
+MCCS Beer Configuration Repo
 
-Spring Boot Microservices with Spring Cloud
+Данный проект содержит конфигурации сервисов входящих в облако дистрибуции пива
